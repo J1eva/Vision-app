@@ -1,4 +1,4 @@
-# VISION - A VOICE ASSISTANT
+# Blind-Assist Application - A VOICE ASSISTANT
 
 This android app made using kotlin is for visually impaired people.
 
@@ -14,4 +14,4 @@ The proposed system is to build a customized application which acts as a voice a
 4)Camera – This module will be used to identify Indian currency denomination and predict the notes scanned by the camera.    
 
 For more detials, please check my blog:
-https://visionandroidapp.blogspot.com/
+blind-assi-app-ml.blogspot.com
